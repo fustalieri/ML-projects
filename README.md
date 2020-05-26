@@ -8,5 +8,5 @@ Problem: Predict the CO2 emission of a car that has not been manufactured yet, b
 - code: Regression - Predict Car CO2emission.ipynb
 
 Problem: Determine which existing vehicles on the market are most like the prototypes on automobile manufacturer has developed for a new vehicle; which models the manufacturer will be competing against. The goal is to summarize the existing vehicles and help manufacturers to make decisions about the supply of new models.
-- dataset: FuelConsumption.csv
+- dataset: Car_sales.csv
 - code:
