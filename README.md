@@ -20,7 +20,7 @@
 - **dataset**: WA_Fn-UseC_-Telco-Customer-Churn.csv
 - **code**:  	Customers Churn Prediction.ipynb
 
-### MEDIA - RECOMMENDATION SYSTEMS
+### Media - Recommendation Systems
 *Problem*: Build a movie recommendation system for a user, based on MovieLens dataset.
 - **dataset**: MovieLens dataset 100K
 - **code**:  	Recommendation Systems on a Movie dataset.ipynb
