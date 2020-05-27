@@ -19,3 +19,8 @@
 *Problem*: Predict which customers might leave a telecommunication provider next month. Customer churn has many definitions: customer attrition, customer turnover, or customer defection. They are all referring to the loss of clients or customers. This can be due to voluntary reasons (by choice) or involuntary reasons (for example relocation). Predictive analytic models can be used to predict customer churn by assessing their propensity or risk to churn. 
 - **dataset**: WA_Fn-UseC_-Telco-Customer-Churn.csv
 - **code**:  	Customers Churn Prediction.ipynb
+
+### MEDIA - RECOMMENDATION SYSTEMS
+*Problem*: Build a movie recommendation system for a user, based on MovieLens dataset.
+- **dataset**: MovieLens dataset 100K
+- **code**:  	Recommendation Systems on a Movie dataset.ipynb
